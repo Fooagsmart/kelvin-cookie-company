@@ -1,9 +1,9 @@
 html{
     color: blanchedalmond;
     background-color: rgb(66, 87, 87);
-    text-align: center;
+    text-align: left;
 }
 img{
-    font-size: small;
-    width: 600px;
+    width:auto;
+    
 }
